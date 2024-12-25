@@ -27,21 +27,27 @@ This is a task management system that allows users to create, update, delete, an
    npm install
 
 
-Set Up MongoDB
+## Set Up MongoDB
 
-Use your MongoDB connection URL in the server.js file.
-Ensure MongoDB is properly set up and running.
-Configure Email Notifications
+-Use your MongoDB connection URL in the server.js file.
+-Ensure MongoDB is properly set up and running.
+
+## Configure Email Notifications
 
 Update the email sender and recipient details in server.js.
 Use an app password for secure email functionality.
-Run the Backend Server Start the backend server with the following command:
 
-bash
-Copy code
+## Run the Backend Server Start the backend server with the following command:
+
 node server.js
-Open the Frontend Open the index.html file in your browser to interact with the application.
 
-API Endpoints
+
+
+## Open the Frontend Open the index.html file in your browser to interact with the application.
+
+
+# API Endpoints
 Tasks API
 GET /api/tasks
+
+
